@@ -2,19 +2,20 @@
 <html>
    <head>
       <style>
-      h1 {
-         color: blue;
-         font-size: 28pt;
+      .odd {
+         background-color: #9999ee;
       }
-      body {
-          background-image: url("http://m.99wallpaper.com/images/7_1306/Black%20Background%20Wood%20-%202560x1600%20by%20Freeman.jpg")
+      .even {
+         background-color: pink;
       }
       </style>
    </head>
    <body>
-      <h1>Hello World!!</h1>
-      <p>The paragraph text should be unchanged</p>
-      <h2>I am not blue!</h2>
-      <h1>Hello Again</h1>
+        <table>
+        <tr class="odd"><td>aapl</td><td>$101.23</td></tr>
+        <tr class="even"><td>goog</td><td>$583.10</td></tr>
+        <tr class="odd"><td>tsla</td><td>$281.10</td></tr>
+        <tr class="even"><td>amzn</td><td>$331.33</td></tr>
+        </table>
    </body>
 </html>
