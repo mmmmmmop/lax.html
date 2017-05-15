@@ -1,24 +1,67 @@
 <html>
-  
-  <title>my website</title
-<h1>Html basics</h1>
-     <a href="gold.jpg">
-   <img src="gold.jpg" width="30%">
+<title>Cristiano Ronaldo</title>
+  <style>
+body {
+        background-image: url("santiago.jpg");
+}
+ h1 {
+         color: red;
+      }
+  </style>
+<body>
+  <h1>Soccer site has videos, pictures</h1>
+  <h1>Videos on some soccer players</h1>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/AKx8LOOREeM" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OtUJB9bUX9g" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ef1T2Yb3rBc" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0h8y6loAtmE" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aO_T5lCmUBI" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/rc7nsqTVA9Q" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SHVRG6xaPMQ" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7YTb4trn7LY" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/iL9jlH65Tfg" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/m0hS78hfcko" frameborder="0" allowfullscreen></iframe>
+  <br>
+  <h1>Documentary on soccer players</h1>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ydjx4h2ULBM" frameborder="0" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/teCorYNcqB8" frameborder="0" allowfullscreen></iframe>
+<br>
+  <h1>Full clasico the most/best game you can watch!!!</h1>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0yq3gsTr7H4" frameborder="0" allowfullscreen></iframe>
+  <h1>Some soccer shoes</h1>
+  <br>
+  <a href="adidas.jpg">
+    <img src="adidas.jpg" width="35%"> 
+      </a>
+  <a href="soccer shoes.jpg">
+    <img src="soccer shoes.jpg" width="35%">
   </a>
-  <p><i></i>italic</p>
-   <p><em>enthisized</em></p>
-  <p><strong>strong text</strong></p>
-  <p>--------------------------links down below----------------------------</p>
-  <p><a href="https://www.youtube.com/">youtube</a></p>
-  <p><a href="https://google.com/">google</a></p>
-  <p><a href="https://github.com/">here</a></p>
-  <i><strong>Things i like</strong></i>
- <ul><li><b>video games</b></li><ul>
- <ul><li><b>go karts</b></li><ul>
- <ul><li><b>airsoft</b></li><ul>
-<button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()">
-Click me to display Date and Time.</button>
-
-<p id="demo"></p
+  <a href="superflysblackout.jpg">
+    <img src="superflysblackout.jpg" width="35%">
+  </a>
+  <a href="superflys.jpg">
+    <img src="superflys.jpg" width="35%">
+  </a>
+   <a href="magistas.jpg">
+    <img src="magistas.jpg" width="35%">
+  </a>
+  <br>
+  <h1>Some pictures on soccer players</h1>
+  <a href="cristiano.png">
+    <img src="cristiano.png" width="35%">
+  </a>
+  <a href="cr7.png">
+    <img src="cr7.png" width="25%">
+  </a>
+  <a href="Bale.jpg">
+    <img src="Bale.jpg" width="40%">
+  </a>
+  <a href="Ramos.jpg">
+    <img src="Ramos.jpg" width="40%">
+  </a>
+   <a href="slide.jpg">
+    <img src="slide.jpg" width="40%">
+  </a>
+</body>
+</html>
 
