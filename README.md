@@ -21,8 +21,6 @@ body {
    <a href="www.youtube.com">
   <br>
   <h1>
-  <iframe width="560" height="315" src="a70319c58bfab6af917a59b9550d734a.jpg" frameborder="0" allowfullscreen></iframe>
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/teCorYNcqB8" frameborder="0" allowfullscreen></iframe>
 <br>
   
 </body>
