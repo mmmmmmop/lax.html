@@ -1,5 +1,5 @@
 <html>
-<title>Cristiano Ronaldo</title>
+<title>my website</title>
   <style>
 body {
         background-image: url("gij.jpg");
@@ -15,7 +15,7 @@ body {
    <center><img src= "150526103052-pizza-hut-natural-780x439.jpg" > </center>
    <h1>hobbies</h1>
    <p>i like to play video games and paintball
-   <center><img> src= "controller.jpg" > </center>
+   <center><img src= "controller.jpg" > </center>
   <br>
   <h1>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ydjx4h2ULBM" frameborder="0" allowfullscreen></iframe>
