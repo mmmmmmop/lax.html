@@ -18,10 +18,10 @@ body {
    <center><img src= "a70319c58bfab6af917a59b9550d734a.jpg" > </center>
    <a href= "Course_BOC.jpg"> 
    
-   <h1>links</h1>
+   <h1>examples of some links</h1>
    <p><a href="https://www.youtube.com/">youtube</a></p>
   <p><a href="https://google.com/">google</a></p>
-  <p><a href="https://github.com/">here</a></p>
+  <p><a href="https://github.com/">github</a></p>
   <br>
   <h1>
 <br>
