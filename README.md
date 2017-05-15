@@ -13,15 +13,7 @@ body {
   <p>this website is about me</p>
   <h1>my favorite food is pizza</h1>
    <center><img src= "150526103052-pizza-hut-natural-780x439.jpg" > </center>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/OtUJB9bUX9g" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ef1T2Yb3rBc" frameborder="0" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/0h8y6loAtmE" frameborder="0" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/aO_T5lCmUBI" frameborder="0" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/rc7nsqTVA9Q" frameborder="0" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/SHVRG6xaPMQ" frameborder="0" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/7YTb4trn7LY" frameborder="0" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/iL9jlH65Tfg" frameborder="0" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/m0hS78hfcko" frameborder="0" allowfullscreen></iframe>
+   <h1>hobbies</h1>
   <br>
   <h1>Documentary on soccer players</h1>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ydjx4h2ULBM" frameborder="0" allowfullscreen></iframe>
