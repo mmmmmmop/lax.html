@@ -4,4 +4,8 @@
 body {
  background-image: url("gij.jpg");
 }
+h1[ 
+  color: blue;
+  }
+
 
