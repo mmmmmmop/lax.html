@@ -22,42 +22,7 @@ body {
   <iframe width="560" height="315" src="a70319c58bfab6af917a59b9550d734a.jpg" frameborder="0" allowfullscreen></iframe>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/teCorYNcqB8" frameborder="0" allowfullscreen></iframe>
 <br>
-  <h1>Full clasico the most/best game you can watch!!!</h1>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/0yq3gsTr7H4" frameborder="0" allowfullscreen></iframe>
-  <h1>Some soccer shoes</h1>
-  <br>
-  <a href="adidas.jpg">
-    <img src="adidas.jpg" width="35%"> 
-      </a>
-  <a href="soccer shoes.jpg">
-    <img src="soccer shoes.jpg" width="35%">
-  </a>
-  <a href="superflysblackout.jpg">
-    <img src="superflysblackout.jpg" width="35%">
-  </a>
-  <a href="superflys.jpg">
-    <img src="superflys.jpg" width="35%">
-  </a>
-   <a href="magistas.jpg">
-    <img src="magistas.jpg" width="35%">
-  </a>
-  <br>
-  <h1>Some pictures on soccer players</h1>
-  <a href="cristiano.png">
-    <img src="cristiano.png" width="35%">
-  </a>
-  <a href="cr7.png">
-    <img src="cr7.png" width="25%">
-  </a>
-  <a href="Bale.jpg">
-    <img src="Bale.jpg" width="40%">
-  </a>
-  <a href="Ramos.jpg">
-    <img src="Ramos.jpg" width="40%">
-  </a>
-   <a href="slide.jpg">
-    <img src="slide.jpg" width="40%">
-  </a>
+  
 </body>
 </html>
 
