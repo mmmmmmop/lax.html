@@ -14,7 +14,7 @@ body {
   <h1>my favorite food is pizza</h1>
    <center><img src= "150526103052-pizza-hut-natural-780x439.jpg" > </center>
    <h1>hobbies</h1>
-   <p>i like to play video games and paintball
+   <p>i like to play video games and paintball</p>
    <center><img src= "a70319c58bfab6af917a59b9550d734a.jpg" > </center>
    <h1>boi</h1>
   <br>
