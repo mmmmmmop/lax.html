@@ -2,15 +2,14 @@
 <title>Cristiano Ronaldo</title>
   <style>
 body {
-        background-image: url("santiago.jpg");
+        background-image: url("gij.jpg");
 }
  h1 {
-         color: red;
+         color: blue;
       }
   </style>
 <body>
-  <h1>Soccer site has videos, pictures</h1>
-  <h1>Videos on some soccer players</h1>
+  <h1>Welcome to my website!</h1>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/AKx8LOOREeM" frameborder="0" allowfullscreen></iframe>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/OtUJB9bUX9g" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ef1T2Yb3rBc" frameborder="0" allowfullscreen></iframe>
