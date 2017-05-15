@@ -19,7 +19,9 @@ body {
    <a href= "Course_BOC.jpg"> 
    
    <h1>links</h1>
-   <a href="www.youtube.com">
+   <p><a href="https://www.youtube.com/">youtube</a></p>
+  <p><a href="https://google.com/">google</a></p>
+  <p><a href="https://github.com/">here</a></p>
   <br>
   <h1>
 <br>
