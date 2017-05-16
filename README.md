@@ -26,7 +26,7 @@ body {
   <h1>
 <br>
 
-   <table class="spaced" width="95%" border=1px cellspacing=0> 
+    <table class="spaced" width="95%" border=1px cellspacing=0> 
      <caption> Table of Randomness</caption> 
      <tr>
        <th>Creature Name</th> 
@@ -57,7 +57,13 @@ body {
        <td>orange</td> 
      </tr> 
      <tr> 
-     </table>
+       <td>Spongebob</td> 
+       <td>yellow</td> 
+     </tr> 
+     <tr> 
+       <td>Patrick</td> 
+       <td>pink</td> 
+        </table> 
 
   
 </body>
