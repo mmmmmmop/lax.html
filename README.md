@@ -25,47 +25,36 @@ body {
   <br>
   <h1>
 <br>
-
-    <table class="spaced" width="95%" border=1px cellspacing=0> 
-     <caption> Table of Randomness</caption> 
-     <tr>
-       <th>Creature Name</th> 
-       <th>One color it can be</th> 
-     </tr> 
-     <tr> 
-       <td>Narwhal</td> 
-       <td>brown</td> 
-     </tr> 
-     <tr> 
-       <td>Ribbon Eel</td> 
-       <td>blue</td> 
-     </tr> 
-     <tr>
-       <td>Lamprey</td>
-       <td>gray</td> 
-     </tr> 
-     <tr>
-       <td>Basking Shark</td> 
-       <td>grayish brown</td> 
-     </tr> 
-     <tr> 
-       <td>Goblin Shark</td> 
-       <td>pink</td> 
-     </tr> 
-     <tr> 
-       <td>Goldfish</td> 
-       <td>orange</td> 
-     </tr> 
-     <tr> 
-       <td>Spongebob</td> 
-       <td>yellow</td> 
-     </tr> 
-     <tr> 
-       <td>Patrick</td> 
-       <td>pink</td> 
-        </table> 
-
+<center>
+ <table width='60%' border=1px cellspacing=0>
   
+   <caption><p><b><font size= "6"> Volleyball Equipment</font></b></p></caption>
+ <tr>
+ <p>  
+     <th>What is needed</th>
+     <th>How it is used</th>
+     
+ </tr>
+ <tr>
+     <td>Volleyball</td>
+     <td>This is the most important part of the sport because this is the ball that is used</td>
+     
+ </tr>
+ <tr>
+     <td>Volleyball Net</td>
+     <td>This is a net that shows that the ball has to go over that certain height</td>
+     
+ </tr>
+ <tr>
+     <td>Court with all the "out" lines</td>
+     <td>This is so that you know where the bounderies are for where you need to try to keep the ball in</td>
+   </tr>
+  </table> 
+  <p>
+  
+    </center>    
+
+    
 </body>
 </html>
 
