@@ -24,20 +24,17 @@ body {
   <p><a href="https://github.com/">github</a></p>
   
   <h1>table</h1>
+  <table> width='100%' border=1px cellspacing=0>
+  <caption>Table of Top Favorites</caption>
+    <tr>
+      <th>Food</th>
+      <th>Sports</th>
+      <th>Shows</th>
+      <th>Dog Breeds</th>
+    </tr>
+    </table>
+    
 
- <table width='20%' border= 2px cellspacing=0>
-    <caption>Contact Info</caption>
-    <tr>
-      <th>Phone</th>
-      <th> (425)555-1234 </th>
-      <th>Email</th> 
-      <th>totallyrealemail@notfake.com</th>
-    </tr>
-    <tr>
-      <th>LinkedIn</th>
-      <th>I'm 14 why would I have a LinkedIn </th>
-    </tr>
-  </table>
 </body>
 </html>
 
