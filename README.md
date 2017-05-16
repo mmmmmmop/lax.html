@@ -25,6 +25,43 @@ body {
   <br>
   <h1>
 <br>
+<table width='100%' border=1px cellspacing=0>
+    <caption>Table of Top Favorites</caption>
+    <tr>
+      <th>Food</th>
+      <th>Sports</th>
+      <th>Shows</th>
+      <th>Dog Breeds</th>
+    </tr>
+    
+    <tr>
+      <th>Fried Rice</th>
+      <th>Volleyball</th>
+      <th>Grey's Anatomy</th>
+      <th>Golden Retriever</th>
+    </tr>
+      
+    <tr>
+      <th>Pho</th>
+      <th>Basketball</th>
+      <th>Nikita</th>
+      <th>Border Collie</th>
+    </tr>
+    
+    <tr>
+      <th>Pasta (all kinds)</th>
+      <th>Football</th>
+      <th>The 100</th>
+      <th>Pyranees</th>
+    </tr>
+    
+    <tr>
+      <th>Pad Thai</th>
+      <th>Tennis</th>
+      <th>13 Reasons Why</th>
+      <th>Husky</th>
+    </tr>
+  </table>
   
 </body>
 </html>
