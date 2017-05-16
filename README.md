@@ -25,49 +25,20 @@ body {
   <br>
   <h1>
   
-<table width='100%' border=1px cellspacing=0>
- <caption> Notable Team Mates</caption>
- <tr>
-     <th>Alias</th>
-     <th>First Name</th>
-     <th>Last Name</th>
-     <th>Relationship</th>
- </tr>
- <tr>
-     <td>Iron Man</td>
-     <td>Tony</td>
-     <td>Stark</td>
-     <td>Allies, Frenemies</td>
- </tr>
- <tr>
-     <td>Black Widow</td>
-     <td>Natasha</td>
-     <td>Romanova or Romanoff</td>
-     <td>Close Allies</td>
- </tr>
- <tr>
-     <td> Thor </td>
-     <td> Thor</td>
-     <td> Odinson</td>
-     <td> Allies </td>
- </tr>
- <tr> 
-     <td>Hulk</td>
-     <td>Bruce</td>
-     <td>Banner</td>
-     <td>Allies</td>
- </tr>
- <tr> 
-     <td>Scarlett Witch</td>
-     <td>Wanda</td>
-      <td>Maximoff</td>
-      <td>Close Allies</td>
-     </tr>
-      <tr> 
-     <td>Hawk Eye</td>
-     <td>Clint</td>
-      <td>Barton</td>
-      <td>Allies</td>
+ <table width='25%' border= 2px cellspacing=0>
+    <caption>Contact Info</caption>
+    <tr>
+      <th>Phone</th>
+      <th> (425)555-1234 </th>
+    </tr>
+    <tr>
+      <th>Email</th> 
+      <th>totallyrealemail@notfake.com</th>
+    </tr>
+    <tr>
+      <th>LinkedIn</th>
+      <th>I'm 14 why would I have a LinkedIn </th>
+    </tr>
   </table>
     
 </body>
