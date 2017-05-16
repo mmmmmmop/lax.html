@@ -30,8 +30,6 @@ body {
     <tr>
       <th>Phone</th>
       <th> (425)555-1234 </th>
-    </tr>
-    <tr>
       <th>Email</th> 
       <th>totallyrealemail@notfake.com</th>
     </tr>
