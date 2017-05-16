@@ -33,6 +33,7 @@ body {
     
     <tr>
     <th>pizza</th>
+    <th>football</th>
     </tr>
     </table>
     
