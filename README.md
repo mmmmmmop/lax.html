@@ -29,8 +29,10 @@ body {
     <tr>
       <th>Food</th>
       <th>Sports</th>
-      <th>Shows</th>
-      <th>Dog Breeds</th>
+    </tr>
+    
+    <tr>
+    <th>pizza</th>
     </tr>
     </table>
     
