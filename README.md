@@ -25,7 +25,7 @@ body {
   
   <h1>table</h1>
   <table> width='100%' border=1px cellspacing=0>
-  <caption>Table of Top Favorites</caption>
+  <caption>Table</caption>
     <tr>
       <th>Food</th>
       <th>Sports</th>
